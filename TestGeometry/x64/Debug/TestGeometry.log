@@ -1,0 +1,3 @@
+﻿  TestGeometry.cpp
+C:\Users\Анна\source\repos\TestGeometry\TestGeometry\TestGeometry.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TestGeometry.vcxproj -> C:\Users\Анна\source\repos\TestGeometry\x64\Debug\TestGeometry.exe
